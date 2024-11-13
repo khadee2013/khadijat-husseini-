@@ -1,0 +1,79 @@
+<DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <title>CSS: Selecting by id</title>
+      <style>
+  
+     h2 { 
+          color: cgb(0,232,15)
+     }
+
+     p {
+        color: cgb(191,0,255);
+     }
+
+    cats-song {
+        background-color: red;
+    }
+
+   song-lyrics {
+        background-color: brown;
+    }
+    <style>
+</headd>
+<body>
+
+<h1>All about cats!</h1>
+
+<h2 id="cats-info heading">Basic info</h2>
+
+<p> cats are little creature with a sleek, softcoat  that comes in varity of
+   colours and patterns. They have a sharp<em>eyes</em> than all other animals,
+   and<strong> they reproduce more than human<em>ever</em>| has <strong>.,</p>
+
+<h2>songs</h2>
+
+
+ <p class"cat-song">Oh, my funny cat,<br> 
+my purring friend,<br>
+chasing shadows around the bend.<br>
+a flick of your tail, a glint in your eye,<br> 
+you are my funny pal till the end of time. <br>
+  </p>
+
+ <p class'song-lyrics">midnight, not a sound from the pavement
+Has the moon lost her memory? she is smiling alone
+In the lamplight, the withered leaves collect at my feet
+And the wind begins</p>
+
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+  
+  
+    
